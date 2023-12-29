@@ -6,6 +6,7 @@ const nextConfig = {
   typescript:{
     ignoreBuidErrors: true,
   },
+  
   reactStrictMode: true,
   swcMinify: true,
   images: {
